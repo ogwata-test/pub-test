@@ -4,75 +4,9 @@
 :root {
   font-family: garamond-premier-pro, serif;
 }
-@font-face {
-/* Garamond Premier Pro Regular */
-ont-family: garamond-premier-pro, serif;
-font-weight: 400;
-font-style: normal;
-}
-@font-face {
-/* Garamond Premier Pro Italic */
-font-family: garamond-premier-pro, serif;
-font-weight: 400;
-font-style: italic;
-}
-@font-face {
-/* Garamond Premier Pro Bold */
-font-family: garamond-premier-pro, serif;
-font-weight: 700;
-font-style: normal;
-}
-@font-face {
-/* Garamond Premier Pro Bold Italic */
-ffont-family: garamond-premier-pro, serif;
-font-weight: 700;
-font-style: italic;
-}
-@font-face {
-/*Garamond Premier Pro Bold Medium */
-font-family: garamond-premier-pro, serif;
-font-weight: 500;
-font-style: normal;
-}
-@font-face {
-/* Garamond Premier Pro Bold Medium Italic */
-font-family: garamond-premier-pro, serif;
-font-weight: 500;
-font-style: italic;
-}
-@font-face {
-/* Garamond Premier Pro Bold Semibold */
-font-family: garamond-premier-pro, serif;
-font-weight: 600;
-font-style: normal;
-}
-@font-face {
-/* Garamond Premier Pro Bold Semibold Italic */
-font-family: garamond-premier-pro, serif;
-font-weight: 600;
-font-style: italic;
-}
-@font-face {
-/* Garamond Premier Pro Bold Bold */
-ffont-family: garamond-premier-pro, serif;
-font-weight: 700;
-font-style: italic;
-}
-@font-face {
-/* Garamond Premier Pro Bold Italic */
-font-family: garamond-premier-pro, serif;
-font-weight: 700;
-font-style: normal;
-}
-@font-face {
-/* Garamond Premier Pro Bold Bold Italic */
-font-family: garamond-premier-pro, serif;
-font-weight: 700;
-font-style: italic;
-}
 html {
 /* Garamond Premier Pro Regular */
-ont-family: garamond-premier-pro, serif;
+font-family: garamond-premier-pro, serif;
 font-weight: 400;
 font-style: normal;
 }
